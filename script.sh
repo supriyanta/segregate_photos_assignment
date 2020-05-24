@@ -14,7 +14,6 @@ do
     
     # source file path
     SOURCE_PATH="${PHOTOS_DIR}/${file}"
-    # echo "source -> ${SOURCE_PATH}"
 
     # destination file path
     DESTINATION_PATH="${OUTPUT_DIR}/${split_path[0]}/${split_path[1]}"
