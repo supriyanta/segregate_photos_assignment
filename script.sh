@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # specifying photos directory
 PHOTOS_DIR="/home/titin/Desktop/segregate_photos"
