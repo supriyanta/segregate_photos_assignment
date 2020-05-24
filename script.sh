@@ -2,7 +2,8 @@
 
 # specifying photos directory
 PHOTOS_DIR="/home/titin/Desktop/segregate_photos"
-OUTPUT_DIR="/home/titin/Desktop/segregate_photos"
+# specifying output directory
+OUTPUT_DIR="/home/titin/Desktop/output"
 
 files=$(ls ${PHOTOS_DIR})
 
